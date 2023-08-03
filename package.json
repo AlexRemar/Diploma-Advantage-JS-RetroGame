@@ -1,7 +1,7 @@
 {
   "name": "diploma-advantage-js-retrogame",
   "version": "1.0.0",
-  "description": "",
+  "description": "###### tags: `netology` `advanced js`",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
