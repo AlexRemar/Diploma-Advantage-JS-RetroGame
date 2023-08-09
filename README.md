@@ -1,6 +1,6 @@
 # Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
 
-[Demo](https://alexremar.github.io/Diploma-Advantage-JS-RetroGame/)
+---> [Game](https://alexremar.github.io/Diploma-Advantage-JS-RetroGame/)
 
 ###### tags: `netology` `advanced js`
 
